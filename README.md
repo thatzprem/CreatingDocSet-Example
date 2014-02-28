@@ -3,12 +3,12 @@ CreatingDocSet-Example
 
 Example app to show how to create a doc set similar to apple doc set in iOS 
 
-Reference Links:
+##Reference Links:
 
 For installation: https://github.com/tomaz/appledoc
 Run script details: https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown
 
-Script to execute:
+##Script to execute:
 
       # Start constants
       company="xxxxxxxx";
